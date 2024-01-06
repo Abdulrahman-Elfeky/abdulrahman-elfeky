@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Abdulrahman Elfeky from Egypt. A Computer Engineering Student, who loves Competitive Programming and Web Development, always learning new things.
+I'm Abdulrahman Elfeky from Egypt. A Computer Engineering Student, who loves Competitive Programming and Software Development, always learning new things.
 
 <!--
 **Abdulrahman-Elfeky/abdulrahman-elfeky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
